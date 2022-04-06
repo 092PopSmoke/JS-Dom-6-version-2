@@ -1,0 +1,44 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    margin-top: 300px;
+    color: #000000;
+}
+
+#yes {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 1%;
+}
+
+#mySelect {
+    margin-top: 50px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+#velg {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+#min_valg {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding: 5px;
+}
+
